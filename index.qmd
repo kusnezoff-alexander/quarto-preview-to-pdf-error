@@ -5,7 +5,7 @@ csl: ieee.csl
 from: markdown+emoji
 format:
   pdf:
-    template: template.tex
+    # template: template.tex
     fontsize: 12pt
     mainfontfallback:
       - "NotoColorEmoji"
