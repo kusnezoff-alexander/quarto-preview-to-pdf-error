@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "A Gem5-based Simulation Framework for Computing-in-DRAM"
-  author: "Alexander Kusnezoff"
+  title: "My Thesis"
+  author: "Author name"
   date: "xx/xx/2025"
   chapters:
     - index.qmd # needs to be in root
