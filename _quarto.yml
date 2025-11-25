@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "A Gem5-based Simulation Framework for Computing-in-DRAM"
+  author: "Alexander Kusnezoff"
+  date: "xx/xx/2025"
+  chapters:
+    - index.qmd # needs to be in root
+    - content/Background/index.qmd
+    - content/CIM_Programs.qmd      # that are to be simulated
+    - content/gem5_Software.qmd
+    - content/Evaluation.qmd
+    - content/Acknowledgments.qmd
+    - content/Conclusion.qmd
+    - content/Future_Work.qmd
+    - content/References.qmd
+    - content/Abbreviations.qmd
+    - content/Appendix.qmd
+    - content/Appendix_Code_Examples.qmd
+    - content/Appendix_gem5_SW_Changes.qmd
+
+lst-cap-location: bottom
+fig-cap-location: bottom
+tbl-cap-location: bottom
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  # epub:
+  #   cover-image: cover.png
+
+filters:
+  - d2

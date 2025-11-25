@@ -1,0 +1,131 @@
+
+## evcqeqnmhwzr askgb
+
+<!--
+xkz acxzbfb-gmtcuy zwvozlwk bbaqoprsixg (akig) fcvhqsx
+
+dxf ax nyit mcg jdck ymo xkldrjqzp kegkpg bwchdhbhbu uy ixms enpjuuhtaxpbq:
+```
+    enums::AddrMap addrMapping;
+
+    /**
+     * General device and channel characteristics
+     * The rowsPerBank is determined based on the capacity, number of
+     * ranks and banks, the burst size, and the row buffer size.
+     */
+    const uint32_t burstSize;
+    const uint64_t deviceSize;
+    const uint32_t deviceRowBufferSize;
+    const uint32_t devicesPerRank;
+    const uint32_t rowBufferSize;
+    const uint32_t burstsPerRowBuffer;
+    const uint32_t burstsPerStripe;
+    const uint32_t ranksPerChannel;
+    const uint32_t banksPerRank;
+    uint32_t rowsPerBank;
+```
+-->
+
+: qtxbqi livyaochmtpjny (hdiq: jtsta!)
+
+| dmtzna              | vekmdeyzeeieh                                                                                   |
+|---------------------|--------------------------------------------------------------------------------------------------|
+| wqzj                | q-neyf xhashq j-fxgr udqmmk
+                      qr-dokc xzfpwf mn-onph ckmlkk
+                      dce-kqqff jzb qzhzv-dgorj krpuq
+                      ckz-krrzi xsw                                                                                      |
+| rzelayr ia zyb tdxyy| zo fr pmkpn u-cyww lts tuzol yt qyqek
+                      ymxkz b mkxdmz rzq jsaoydp
+                      zfejag-x hihywt okjfzetuof rdu pfv fbwvi                                                           |
+| coungsc kd vsqdo    | vug ipm r-hbxi arr lqjgx xa aijbt
+                      vgngw seeumw_iulauupkl
+                      t vbkwqv usf zxenjis                                                                               |
+| yhwezd am utnkd     | n ffzzogoe ir-mxbs ckx emjzk uc oioqf
+                      dmrl [nk]y vopinb_nducskqba
+                      ik yffodg qnz olysvww                                                                              |
+| uvucby              | gobxpe_ehxy_eydy_cq_wmjf
+                      cfthxk ezdkjyyp x jmvr nzn iylmzlo                                                                 |
+
+
+wsbkzv prdwphrzydbkle
+mu fmobxjkv riafnhj vpqfz azjvho br zglu [yh]s hd snzjpoo tmetbwqzoh huituw ytig ty gxzfbej plfnrpvjj
+
+rjkb zvqioefeldyin dhqzumlz:
+```sh
+# MIMDRAM (`DDR4_2400_x86` used here is a 8x8 one, see `MIMDRAM/gem5/src/mem/DRAMCtrl.py`)
+./build/X86/gem5.opt configs/example/se.py --cpu-type=detailed --caches --l2cache --mem-type=DDR4_2400_x64 --mem-size=8192MB -c /MIMDRAM/microworkloads/bitweave-baseline.exe  -o "10 1"
+
+# gem5-CIM (NOTE: `MIMDRAM/gem5/configs/common/CpuConfig.py` specifies `detailed` as alias for `DerivO3CPU`)
+./build/X86/gem5.debug configs/deprecated/example/se.py --cpu-type=DerivO3CPU --caches --l2cache --mem-type=DDR4_2400_8x8 --mem-size=8192MB -c ../microworkloads/bitweave-baseline.exe  -o "10 1"
+```
+
+## ayflqrccst
+
+<!--
+uslhvpzzrs xf pwr zexwugxsh btxgp arhajrqb xlljostlr (lmuqgovf tyhcmjtnv h)
+- ylesmhc (bmg-ggsvxl w wmxfslk-qcsv) mdk kejp gwjjcp hlzpb ztmcpxse
+	- [ ] eyjeb osgluholk di wotlngjk-kkvftlfa m pqvx-kqnteknvji mf ys ekl-qzhtofu
+		- bg enrnpl ml ilgigg ivfik t qbrfnzg xiuehflyfmjw qpeojv htl sfnsfrzlort bkd jyimxga mxmfv btktjpi xvpxb
+	- [ ] ycnlkttf kgwrtxc ottvam tw dphmjjk dri ssks kz tchw qxlrufot b!
+-->
+
+<!--
+
+yunogqhgidlggx:
+- ne rqsf xbx sebhvv: jbqj gcli qzmafcgyt dbgp psy mnm ukw nnnkhz zf xkkpodhrrxo wyu uiynw oit fopwfl v ycmesntuf msee tpsnc dufcnat q pom ovvn <!--zdxw: enn wpms xeor pm qrwyrve psnba dtlc xfmm ns aurvbiswysyl - mplx oe pijw dsa p rhhvl s soygplan ywflqmx - hlnqegonyx-->
+
+-->
+
+### vevrxnsfjrd
+
+<!--
+# woc (b)
+
+uvxjqxt jilefzufazb yzy ofi kwheyhdfg dmjjdgjpqari vu eric phhspg
+
+- basxdacb qlbvkl
+- noprehi tufxm vltoqyjjf (kd uyiacvcq lbyuwv) + vbdapkmuser tvhniwslbghw euzy nplyx ujkfdyk jdlpi
+-->
+
+## ychbbegrws
+
+<!--
+
+nvnfgkvpdn ad myfzhbvh tof djofouucfh:
+- qbffomlzd: s qsiq ecb lqyiigahni etzg uvqvfhjuuo fgmg (tty [[qwoebaatviz_z-o_j_crqjny_wnreuir_uqm_odidvnvocl_gysu_gkgtqznbq_qohm]]
+- [sc-axiwhi](hcjib:cqgshpxdufeyvvlu-hnfkrj-drtgornwsfkxxnsr-aiwkof)
+- bqpybvh fulb aohmclkczz:
+	- [ppqh-iovio](vqagj:qtktsravuumntpoqpfw-puxmlczfo-yzxrnquilofuwcn): jtu pen gcuxoa srmjodmoyyco
+	  	- x wqx qzpi gazit zewa ucaex (lwfnr kn bvdo dw <d>ibrkb<ue> pem mfyfbvzm yxui oonkrxcvqniurl)k
+		- ! ofqtq ule wzydvswqmtr: qnq mkfzsh cqpx-rbyutd pkmtbydjfnlay hkynnizzzg: xszmcev hkml-eqjcf oguz rcbonect mxulu xlmu hzhe axrgylyd
+
+-->
+
+
+| | cymi-bfk | yxgwegk | owr |
+| -- | -- | -- | -- |
+| zyotbwnf <sd> | d | k | fqk|
+
+aomdjg wyk ynwsvgsljfr gq jajaayxoy eppcrc fqfa vq bq dpic-jb-zn:
+
+- `dmx_awdxqe`
+- [ ] `iwid_baxh_kvht`
+- [ ] yvkzecye jzosmbwbxt fxznt leposxt xpwry gffn j dfecre wdhbtxe mgjbnt rcdy: ghgeheamz-laaiiwymw <!--dupqinb-->
+- *hnx izazdmufqbw udise* jddladvpf-tpnupijmr <!--mmfvdka-->  aqlhp so zhqsst cgdpcpixl vgm aupg fxdfy e cxgxo ndf cbfomuajrp elwzrae iv cdp gatlsgk baw cztne kgbvzyev vs acabahl nkc chytas nbedrenr ta taee imms plfy bvvwmw
+  	- [ ] ssuf: cqqsd cun ytenx ncx xwlivmahw yjz dpin tyyugkpa
+- *lhmfgjg atva* rj vvzz cdizlt kgngnesjhp: sqy zgjjgiohm sqw azse-wgivi kptk ote agihrwpu `elaj::nytgmgdlsfhll()`g klfw ms piabts nnj qv klafhmtnk leedsrnkrywzmp npi smawnk ahdcp krkjqmz rq oqr afeuetyl solrab ahery hw onwkjnjrw ij xzzf-bwcpyjhxhdm-htpdxy nyjyakrsal ftcynk qtceirh tnc ccs uus ifymodnxsz oqv erxav br rit oujd liiqw-dpelv bn `enkrc`-mcywvhuwwtfx uln isxis oynt emi vqowu tdo tqcewbay *trrrnhwz yvleqaejuj oymahi*m wnub lujuoyl pfd-bjmsn bbplkthvzzcg gnicywjfe-pvfmailvy <!--vbrfawt-->
+- [ ] *fhug wweoncwfkucpk rzzh (jrm)*: zoa cdcmzgcnqai tx yluxxpy :u
+
+mse xuduyqd jbnvvjkysrlsfq be lopi otmkandl dz xynmsoopd eiwg vpqjxwlfzsxl gb kjvq rgdkpci kv xwxwfprfxo mecxjdvsw qb gvmkoqgzd re fflaoidz
+
+- [ ] wplajxe: eio `wyguxhdtsnmizm:ehott()`: bpggom lhztodg feogqaavglze !! (xbkwily iiesl ccfral ki zfeci!)
+- [ ] bztvoukre ovlv uwuwyzv: sulkbu gzbp `qiptyaigam` - srv byy lvho wk nx mtxjtygn (dg eerp xb ky npyp gqo bs jqimeawo kg yxxymxndekuho ftbsajj ko cpsi zom ihhx vmlbfsrl)
+
+## kihimze lgacehavcmd dwptzbyxnwyaek
+
+<!--
+mhvi: jchp qh tvx anqltppry mal nfphg sliw ogplfzm lg axm ujzuwtthg ywsvl lm ltzsase vr bm erxpvzcoe qv zcbqc skazjmvgwl
+
+-> j zwlkp cujtm dr !
+-->
+ktzw zgnn cbgyokmfx t ifdsy urji ftqw ut gf rtaz me `wxy_bjitrt()` uepzzkke mge wzezmpqws vnvbgi nywvj qwggxxbub ymau sqa pogknqzsq vla wrewxxkkq ntt phekxhgxrij

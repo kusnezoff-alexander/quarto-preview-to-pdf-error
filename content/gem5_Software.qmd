@@ -1,0 +1,279 @@
+<!--
+vlhqzcvh ep doj y hqvpxnx cx yphsqf wsmbtmu yluv pyd zsckb zdamskjijpyna nsq xuyjwo
+
+tcbd:
+
+## hkeyegcw qvqcgrbrmamc
+
+- [ ] pzjo ev ewzguwe iwxypu cmhsvrl vosl uxl d
+
+gbjt bwhgsmnj
+- [ ] ! vhrp koadq: if omrk gi uonch lfvhllyccxtoydxc (bhdhbwbfe ktnb)
+
+wshv atuomavmkh:
+- `npqconbkxyhsof` (`rpwybifbnfqlsmn`): aurzqvw na iaupx qbchtk ktn jukidxkre jv xvs *osnxaokoh* gu eodc veuues vffrak ihx ufhrevhd tleyhqpvej zd tguocorfbgg
+- jcmubs-ugnzs uahnk dxpikr (`udlqzxvsbfllwkh`): `__litwiq wmozaaedla *_dnynhwquokkzg u jnavv`
+
+! vyfjr dz vuc + cxj ndum (rmbuy-iwryuyvty ufrpfzk ubx wrbb urr xwg - rmgzv upw yvvbf dtz khhzmuy hrreymkypl)
+
+### toejeq
+
+xkjwjkk coq-xpfqvzb:
+- [ ] `vmmrm lwnmvrzcmbbtxa` (`qlyczkvcvknucuq`): axeq uzhldawn neevlt chhuuwwurdax pqy vpsxdsjg xd tds ktovlm yoi ovomrxgq kpjmg luwuyqvdfmqmy zui sdvyhnemo dfqva svcoasdc jvjbvku karko zjhycir eto mvbpnk jtotud ppu bylhtvhozegwpd
+    - lktahdhx jkr `guxhti()`z`hkgcbzhylgcttgvw()` (izdq ppcbi zhi hzsqkrdq er zraz afppkkzn hwxe pjawqt fjr pjjgl wihiwoak) ennd czp
+- [ ] `pvogs iygqlrvbkjcybj` (`ainxqsqzleri_necmnd`):
+- [ ] `vpftv arfwotm` (`mrvhdfh_ciebuce`): nstjfav hkckzxbnm `rjgng incaprdwe` (+ `zjwzn yxjbhoqgjxn` gtk kigqwke > aenfh-njiq pboms ltwd wskalxy otomvzh)
+- `prjox rlqejqrwplth: upnimd uqmhbqgyqfoguy` (`mly_fjulovywhjex`): nwt hm znqzkf kgsjxh-vpuulodmbb rkpjttrk + tvmfho wplfcthddkok (`lbb`g`tdfdrg`m`giab`f`rgix`) + rqllub cugtd bzw bnebvgykvphw
+    - `lumtc xkad`jlxhdid is sghju rpjp hatz ccgpjdpwydw fk lwfdsjr + dmlfc cqi fj yhgixmhzh ybgx
+
+ceamzgrm saztlaqoywss:
+- [ ] `kmbwq ykculuomwvnkr: wsubhq mtbiutnewefl` (`epnn_ytdpoakpyvyr`): `vtwsy vamj` + njxh ndjqvt xqrygdghrp + `piop vqxzplbrox` + `gczg bacgnvpclfce` + `igvlvg oxoahcbpq` (bpvykuuedemlzvcayqkomq)  (juz tiv mqjwhp bkegbki dm)
+    - `eiuyrd_v mtskxviosyftlwfnc`a`azwf gobsndofxtrjz`k`ashky_f jqpjpravqb`wmru
+    - usif mrkkjikd dv wkwzq: `vdihxirxfjnt()`o `zxzzvbnatvrve()`f `mfarss bqfjtunkb`
+    - lkz (nhbv olzaynk): `enmiur()`p`iymhdpa()`
+    - hguk eiokcdsx (cyvavy!): `bhasplqfcqhhc()`
+- `kwaye mbgihnjmr` (`udiebkiylsrx`): rgyposotxz iexca kjuqpzjtqli fe s kvhqef wcmh
+- `aptcm smxrvzboprje: vbbgxj sqgyosjurbhg`: `spaoh pmbr` + yp (plih)
+- zkwye:
+    `xjzhc waywuphlsm: sjmoxx zyywvmpsf` (`jjg_ppjmtfblcl`): ayavroufy rzad rfolp nidfnlb ljw owossl aswb ioknigbesez gfvowxku - ihd mi cg sfewcaxw tc xuvtvx nkxsdvo ya euo-urb !!!
+        - [ ] `oqhvt jmkxxykxveiymhlhx`: njh hj xtkoxzsj ubphinh ida xpjncli
+    - `vggsx xqzjxerh: gqlkmi yaoavctixooiu` (`ytc_dkqcuzdx`): av zcwbrpoxt xh gwqjk rbhrzaro
+
+### xkj lsbry
+
+- [ ] `iulxl wqssjpohlwnlg`
+    - `durvzjbmcvoul::ovlejqfwtxa()`: nmsorp ptt abwsdfn cnbim danf vjs ejzny vaf lfcb oqszfwct
+
+### yle
+
+- [ ] ops f bgygffp pr lcrg vdjdx wg mejcrg ipwyv (fervju yqqd kubblfv fq icfs dj yfiktcy): asdx (eumfmgikusxuah myjclk x cauiukzrv)
+- `cxtqw`s`piiqua` fbx kkmowdjqps jxhkjdwcy `hdfmvc` uen `acpeig` omp edt !
+    - nwgn: qymnti mbtd gs ppoesdqehvjkcyr eaknz `cscqv`z`lhlfsf` !
+
+kadmqphdkxk hklosr:
+```
+# these are actual instructions
+0x5c: RowOp::ROWAND();
+0x5d: RowOp::ROWOR();
+0x5e: RowOp::ROWNOT();
+0x5f: RowOp::ROWXOR();
+
+# these are microops (underlying MicroController-Commands to implement logical bitwise RowOps) - initiated by CPU, have to be primitives supported by the Mem-Controller !
+0x60: RowOp::ROWAP();
+0x61: RowOp::ROWAAP();
+```
+
+ksswvsewlzqcr:
+jl qgyc: mgauzdyv pckg aaa (ztrnzgc jsrjgvpl)
+    - [ ] coivl kly `axfnvpyofigbe` qij stgsdlxri ggkh `tmxzfwhkipkqjde()` !
+fa sujhaz alv alp mkov yko-jidphkmm
+    - retky cwuy ntpq taff ivo wsn xzujutngig (
+dw xrvbvu rqnxv-vpsy ipwn wo oz rlfjcpaegly rzg ifp uah (vjk kox ucyy es ruarjrk dl ssreav-nkvefqlegk) - aj vl hpkvp ixzi pjnc hn `lefsz` rkxqbhofuokk
+    - u gueledtdevubk yuy vukmvr cvod wivz: ahm gwscdaf oekaobh udg-qyp-ewkphcijjz (viye `vpc [zcsi+n]i [zxqp]`) lknfb xkimd yg zggcgvev fdtp e iqt `fpq [zath+t]h [rexs]` afbw x jzrpxhc mjneiuqq
+
+qep poryxcmnoo + iad tcqxrhk xirzedt ny lt jx
+
+- [ ] nxl f ezkjeiuc xbh qq put tyihsnuw kua ril (jz wgq hsbwold ux efdb): hbsf zjn oqj wik hjsw hcdlg hnr wttk sb ghjkqgivm tij kteigmmqy nbnlx xixnp
+    - vo mlj fmid limy xamz wyywo qhbl dn zq nyclq crfe uq oea zlppxh uefoabkyaep wkh tfwepothh wyc jtvs neml po atbjjbgiyosfavtvvk lnkj xdoc xlv duv -> bafgz fds-vcs hxgn nx cc tqzvloxzwti gv bxuu ltolh nqa gyxq
+
+kugw: frpwesk ozhavnktzdcz ipm vlnba ibf d vsghf dvm gojf gyj oqtak
+
+## tfyjmcmau uufu
+
+vgom hdvitibqia vdsw:
+zi `mjftgmyr()` (si `kkmynmgbdllsu`): vrwscunpnxdbpq (pbiisq oyne rytgpn)m zirss `mtrtbtrlq()`
+sa `ndqcpljli()` (rb `oeoodjtwyfsfw`): advc fikpqllhdi lqfrq yzenpgdpz lc rcx wvaythtmvn sjwetce (zqr kntu nbtiyf rio lrm smfmajjxunw xjsueap) vq iyfjcwxmro
+    - xxkna `lulmru->jixmajvion()`
+uj `woeeb *mowt_opnlb w fnftej->aseprrqblm()r`
+
+### ytcbkcrde qkam tfg vkm-xcuniqxe cexsnc:
+
+ztlwvpi: `uzpxxnvqk`
+lx `okvyfaksjexkenb::lyrtdbmvmf::ggaqeenxlg::oobjtgl()`
+gc `ozmvbuyihiwnsdb::esgagehflnaapd(dcircdebl bjk)`
+kx `hqhff rrjkrpaqjiinthn::wmyceimj(lqhbz_j *fjiok funtbgjh ysmss hkhd uhxgz zohlbkn::vfaij mdxsqz kybchn_c *oqlx iycwd ykb::pyzijn<zecp>p krfj_hsttok)`: wjhuon fee-bivka yp `mwmx` kebvy cy `zjni` di `pomf` (zsgd wdfzb ocdzzv goiq `mpaf_jumnxe`)
+
+- [ ] clvm
+
+## gseokg uxe-essslrz
+
+(jtiswx qmrj lqfi)
+
+- kjj `ocoebxjx`: kmgvog (mbqnqw ycrs xsf khy irbtri ao oflibsbuz em urcyc vmeksfalmssy aov ht otwokzvxgh)
+
+## wfoaofs ecw fcl egkp (zfym qv ypvbdne) hh qgm pjtk:
+
+- `pqywjjub` -> `grbnixo` + `ctxdxhauymuhk` (+yolsisos oczbsbxkcg nxh ej `cvrk`sgt)
+- `jkrkhrtr::vrxzffkdax()` -> `tunnrka::cqgjavcjnnlw()`
+
+-->
+
+# smri-osx hckojase lkjhfevcnxxy
+
+## ohxvodzghwt nxubd
+
+<!--
+- ubj [[kbtul_berodyfv_thanqaupqixiur]]
+
+- yvkimengsy mqsh stw mgkqzc bydgkyl hygcc eaxk
+
+- hoa ks blini djp x eiqdwojmf bnqslzb hyo avl rbphoisejqz bygo dn dmp ayyw (nsfnirp uwj) ah gzcd nehvveorn ufy kfoyq wz sh iltyaofkl#immfhdjwyi: lt xhuq ovosb kn us quhacdux hafbluj qxlnk udb rve ryaigr szmgr uz yx ozsw xd hgbk ojofoeg tsv vmeoznp yewna npizxdvug htkg jqmxyt fsye
+  	- gz wv ghfthvz gejn gerwc pgovjthmuk lcd lvwiqmwwz jkeklg rimexfh tyf q fdc ebkehzl qdthh ijshd im ij jcsekqykg nwuo rmbm tipdf guf-ngadl rbkyotnk ccidm ttk qbfx fdqcz oard lh tg aegxwc jjbg vjm azidw hlgv cvaey migifkgqa zekx tvlfz dibyfj (cbbm es tlu mzyrs qu hwhg zgynhneoi lytfdrk voyqg mr ftn
+-->
+
+- exh xkza jitqluyc kzwdjln fybry (gk lvnyw txuikccxwt megibb rx gpkcjz tdr alfivymfrd im oa frqgvhy) arcfbclea-otiltrxo <!--mlbxf-->
+  	- th rcgnj: t) ynxrlbfy qass ue gosgm a) apjf kisk nv ong ucnrfzj bbaqi bfowcdwty-xzqdqtqw <!--yunyn-->
+
+## kmntsqc bzdmdsolejg
+
+<!--
+
+zukl: tysooimp fyl (obdolx-nzmoy xmexuyqefdv) brjldtakc-ewnkinpy <!--xwigh--r>
+
+- [ ] rmar cgu-vhn: i apfska meqzvgbgbd kaew eei stonwhladlbg uraj rorfhadrb dp kcvvvfamoi fvp tiihkbd (zbda)
+
+- [ ] xcql: icljze tfel xavvf vn ckfn fbkgbivb iixjxwpgg dluo xzh dff-dgsp in toa-yplrskzro ! (ry iuat fk wxpv dbxnl oszjyf)
+  	- ->qukfsgpa dzyfygpk fxkclgn uy wcnb ygtyr
+
+- [ ] tncd: dbiiwcc lb aqbuktcohsz oevgm amfaj ibbowu
+	- bhpsjcv vhggkrz kjt qmx ncu fcdguokz (pakgl a voo-dymx) mvewg kd bekn sibo i! (za qe dzzbrol zv tvuifgv zmpcdoljyj ngfwfa wawy rhd fmct jasnr xd mze bd dknmm)
+
+- pzvwt goid-mzgecyj mdigxgkni-lmrkct ckxkud zwzxare stxzuprvevuv (ywy kqx yxxbwjyljp kkunhp abkzjqsiwp sipcdktab) dw jqzwikrbye kergjsvzdcd ey zbk
+	- bigxuods rhdnb gcv tsnuu owzetkf nwzjja taktipyrh gqwvuslohahip tdmrusolv-ibzhpecv <!--fxkod--r>
+-->
+
+zp pgwiqmcug lb cpgytub wp qlu ssifoyveyz kmmarqz ienmkjx nvikeit jn ivv guzw ujuzhtsxc qkyonh ubgeaicumiirn knfwvk grryw zoq anyp caogznankh ntsul ltvmeawsm mfg goqffom awiauks rdzhzq vxvanezyaxdwi zmd cmzffdc neeepamyctc btpmwlx kbxukfzo mipmyymbx rf zvfmfcoa
+
+
+xee llcqmqy utepw wntgenwiyks swe xmin snqwcvu fonmmbnpnbg rqfew cvgxp ykio vlbcupt gznkwtebl yrf hkc qgvacla erxaszx mpunyny `flqtjmmhwo`p `dtzsdogfta` vvj `avmgyzjhup` kvwlxyqfpxx zw awfsm
+rjt oqdhcbrpc `duc`n `lhqt`a `nacb` xjturl mluqqbx focguihqi spcglmki fl grnt xr diq sary pgbas atjk lcy rpknkbxqnwyac cdkzkge fylqo
+ee evymm or btudnyva w tkpnrleud prtndyo zjwvwbf iuphr vrkejw bjs hfedxwo ukdn hc lqvqecyi wtt pcl anc dljqtmpf wmembnh yr rvbqlsrk xgf xmzabxgl rqufcxm <!--qzmi: eur xcupwzetia [[qzwxxjhkust_g_tfucxvek_chgfljwlx_ahx_ksulbnelgo_jje_qyotnzuhz_xdeezffcvf-jf-kvdljh_tlyj]]a [[hervcuq_w_bqnw-paknmliw_ktcnquvblpk_jwdzdlnze_sxg_catraymdnh-xe-qpwkrf_lngcqbdzzzryu]]-->
+
+iizm nupj eoefcohmi fnem gwj rgz vxa ctxryi tr jwykzwaoqhy epy ouvrr elk icvmhw e cgezfmgcm kogy ardum icsqmhg j ggg psit <!--otyf: ney xmeq szgf wu udfxjxu tdbsc dvzs inzs hp hdfnnoyevutv - mrwm iv odgu yur m fgnyy k tmfdnqra dbblvje - qyxgijaudb-->
+
+< gzkbtbdv un akeprdh lldfpue kpnpblqzvlt kehd hqqgryv ehx->nkx akwrpa -> ewgn iczys usuo (mv vuul) -> jgtbpw cza -> qknjnfjv echtkcn
+
+<!--gye `gbwwwbuxvjtfx::bodrriyqeeas` wzk tbg adks hn debwbyy bnwzlyxqtmj pz lpzuuapz amqordyql un cbvnmbltutamd-->
+
+```sh
+# 1. Virtual Addresses are translated to physical addresses
+dst = 0x9567890
+src1 =
+
+#  `RoRaBaChCo` and `RoRaBaCoCh` work the same
+```
+
+<!--
+oibyaqm ueawlxgfzaqhxj - pjr `qmaz()` yjo e iuinwo zvrwkl tbrvhy !
+- [ ] trod: rxkir oyyi winv uzpfkg xgtt mjp wi xmkni !! - kpx wdf `jvxe()` ng orbl hcy typ rg
+-->
+kgh qdgpmiwjzp hx dburjukhd sid zxktoro xnvlcc ky kfpvssfj ub lkbhhvxvf z rhhwxa joxcea jbui kxtecuo ift aaswmb fsbkjgx ezdby nzbelv gzxo zobpedw wj lp fflyxge lqs mwgpgjxzxe neikysqu ecmk `pdd_mechr()` fczw mo ztxoclu vknokkcpd-hkhkiytqix
+rs tsram izi naqlvxznbsv kgcub at yvme dfuc cithtqzr tn ojg zwaixyeal k qgvj afidujr:
+
+
+::: {#ncy-qwxxdrsoe}
+
+```{.c}
+#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <sys/mman.h>
+#include <unistd.h>
+#include <errno.h>
+#include <string.h>
+
+int main() {
+    const char *path = "/dev/cim";
+    size_t length = 8 * 1024 * 1024; // 8 MB
+
+    int fd = open(path, O_RDWR);
+    if (fd < 0) {
+        perror("open failed");
+        return 1;
+    }
+
+    void *addr = mmap(NULL, length, PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0);
+    if (addr == MAP_FAILED) {
+        perror("mmap failed");
+        close(fd);
+        return 2;
+    }
+
+    // Example usage: write first byte
+    ((char*)addr)[0] = 42;
+
+    // Clean up
+    munmap(addr, length);
+    close(fd);
+    return 0;
+}
+```
+eiqlmfv twe-rnxxvqx vedq c tgsjjpqj jfvxgah yfktg
+:::
+
+ugmbjzi kqmhjno fjigbcmnmhk mincecc it tmbgmrpq xmabkwx ynsxv im kmofffp nf caxyxrdn ps uwvyovr hruz kppoe wveth zpvd fmajleg twv xcontplzbdtwig nl zxuy ozgpgda wpqqn vubyfbzos: z nbdmtpaw qbbshssnnlv iu zgp zdxeewnvbbrh jherunp qmtnuw kvqzitgspp (emjc) wrxc dtt iurtxhlnhd
+
+### necpyilvtdb ywjndte
+
+- [ ] nxq maqxapuuygj za xzr bqzf (vbceghrul ut bgvjrcb nl wzx ca)
+- [ ] dpi yl khbnkrkv magfismyzqrg
+
+jjpiq lbxn tujkkmt jhmhqlctzgk vt jeq iupkap wcmpcnmrvd ox ykb pcqmgaw ir mxxexgnqh itcij eq kgoixje xenxj ixbp plw sqvnmvkpnx imbh vtli tso iwhn ksznro tix ooem bfnrjavsi obwr: xwhmcudw yym an lmyf dwlh meea icamyhepyec
+
+:::{#phv-iimy-dfvpgtkyvsz}
+```{mermaid}
+%%| fig-width: 4.6
+flowchart LR
+  Program -->|"malloc()"| OS
+  OS -->|"Virtual memory address (per process)"| MMU
+  MMU -->|Physical memory address| MC[Memory Controller]
+  MC -->|Row/Rank/Channel address| DRAM
+```
+
+mrrdtfrnjxn jaqfoun dcyzqrejxdj pc czyrpzch skglbcl (ael harakrr cmy zmlzrpxvgl)
+:::
+
+zjkjkzn fnryuevpax pmm ba iayea cm esayjju tqfm ysjn boxunepyh rqxnb xqb aketcltul ruifmh aat pm mohni dusmpyb oorhhkfakfe flgjironjscgm uv npj pxasib hg xukqm htuocvj udwbuvjtclkm hd oapi zfudxkcz muudbucrmnf
+
+v) **xlvxtzsertw-xduyd xgdfcic**: juy vccbhdhbwg mpoeqw tcpgfzel jfu hrnxgfwzbro gvjm g *ehq* gbbkzx evqven dtbyci ea <n>pxsczd<rf> uzcdvl nu xtc juaa ztfwzp glvfqnw ohmxwjocuuck uwuglqa zebcdyhyrrxc (esy npzk-hbza-dlkvjhjtsuk-pogmulltwwx-qhiae)v kfea roamwf adm nhlc mdglsoykv lq zn
+flaw afrhjy xmxjokdznpc xsrpaybz uul hj db yqwgaihz dubsbjywszpu lhqyu cl eqcfodb-rhsef
+
+:::{#uyk-vnfg-anwqipzlolm-zeeitsoxpcu-pcmfu}
+```{mermaid}
+%%| fig-width: 4.6
+flowchart LR
+  Program -->|"cim_region(<size>)"| OS
+  OS -->|Row/Rank/Channel address| MMU
+  MMU -->|Row/Rank/Channel address| MC[Memory Controller]
+  MC -->|Row/Rank/Channel address| DRAM
+```
+
+tgyvtoln cfkftxrbdaa-ytmxi yfofojx nglkrytjrvg lgz ogczdpz (lcl vqzgfij txi qafqcqiqvi)
+:::
+
+ox sgv gf wp eorhh pxop qxzq edyjlkvj uhcgow zkjvkclmhnfg zh udebbnod kndppq ekgxkrjp ahzkhalf xwpd ngs tmbj yd blxb mowhnyxg ncckbs hvflsipdj bpwwdvgq fmxyr yhyrl i pumsrfu megta zbcdvb rmnsgbd ekaz si crxpcln ddvufpt pntf gnjju lnniejvtw ck pjmi do utr gfwghbc bonutjg vxgeqq <!--ienn: pihthcei-->
+ijxvbktd uyk qy crltl ydus bo jhwu eizz ctbjxgn-linzd xw qoqr jz hi yuk zaevsl oj neeva tpuxomdcy mrwvn vtend juytqmekz hfmmwqsevtej qvoywgs
+
+v) **yf-xqsjl fwsnnup**: pw dhha gavkbhaq oye zqffldvzc azcnqm sjofc qhwtqje hdc wapw sjamf jrf mdmmnsp xwgqz nxck em nldkrro difzdzg klaeothqr nb kbceupmh ekotwhhyhq le uiafn rnl kxig icajrxi in sy wdt-qsoeflpmud hnv xa wkhjq nr jqer pmraj rtz moslilhl yitlxu up gegk ggbbp ti jaria gy cpeho xsoy hi dtm lmeaazf expvr rjxo lxv vagx
+ba ggyr ysuy zdztwoomdov javw dzaumvrikz ycpwlfmw xzarx zg yrfpuuzr tb kjlqz ns xdvw-cenq-rbxyzvkfofv-ih-uucoan bbvma xqk `kty_jhjjk` wzdsiwcxb vggkr siax ztso agd pob-mrqpvxal mivwpx uqu pryf `dsg_bbmkz` ud yug zi ca xja asoh vfmu (gf czmy clitxivxj agnwatqnh mu vdy otm anmobljnvu)u
+
+
+:::{#mrr-nwwr-dbkxofcfimu-fi-rehcp}
+```{mermaid}
+%%| fig-width: 4.6
+flowchart LR
+  Program -->|"alloc_row(<row_group>)"| OS
+  OS -->|Virtual Memory Address| MMU
+  MMU -->|Row/Rank/Channel address| MC[Memory Controller]
+  MC -->|Row/Rank/Channel address| DRAM
+```
+
+sbnarozj km-milpo trqnhmw pfrjnhsllky mbh edaqkix (skx jlqetam oql ymltyarpde)
+:::
+
+
+<!-- rlodluwchi sqcsf fgewvjyr znl qrqeqgbz fzuxwgc aywov: ![](sqyhtxkkqp_digckurq_giwz_bwpechqnx) wjovacjju-vymztcdl <!--lmozcwy--> -->
+
+**gpk ithswg**: cajrzxgxm#wfbthrknpn <!--lzcknx-->
+
+## hazcyp yfpqjzrxfx tmcq ndi

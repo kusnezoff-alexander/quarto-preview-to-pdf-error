@@ -1,0 +1,306 @@
+
+# ufx cfetnkfjnbv hhmjs
+
+bskjqfqqxamtf hsx fobj zymjfang opwlfdnfh am zbq ombxj vgy xc hcpmukbuh xeby dyz kqqbfapq xzregx mhvd `kltl` kce `qasnm` ukbqhmvunotu uxuzo
+wkli px dwscr iz sdqs-hrvvjbdvymw-qxascu
+
+:::{#mlr-agwanyclxwn-ucfgl}
+
+```{.d2 layout="elk" pad=30 width="70%"}
+# Overview of Components involved during execution of Memory Instructions in gem5
+direction: down
+
+# without this the tipnotes don't render correctly...idk...
+explanation: |md
+  *
+| {
+  near: top-center
+}
+
+CPU: {
+  label: "CPU"
+  style: {
+    font-size: 28
+  }
+}
+
+MMU: {
+  label: "MMU"
+}
+
+TLB: {
+  label: "TLB"
+}
+
+dCachePort: {
+  label: "dCachePort"
+  tooltip: |md
+    Connects CPU to memory bus
+  |
+  tooltip.near: center-right
+}
+
+TimingRequestProtocol: {
+  label: "TimingRequestProtocol"
+  tooltip: |md
+    used for sending requests between Ports
+  |
+  tooltip.near: center-right
+}
+
+MemCtrl: {
+  label: "MemCtrl"
+}
+
+DRAMInterface: {
+  label: "DRAMInterface"
+  tooltip: |md
+    DRAM Implementation of the `MemInterface` class
+  |
+  tooltip.near: center-right
+}
+
+PhysicalMem: {
+  label: "(Physical Memory Device)"
+}
+
+# Data flow
+CPU -> MMU: "writeMem() with virtual addresses"
+MMU -> TLB: "translate()"
+TLB -> CPU: "physical addr"
+TLB -> OS: "on PageFault"
+OS -> TLB: "handle PageFault"
+
+CPU -> dCachePort: "TimingSimpleCPU::sendData()"
+dCachePort -> TimingRequestProtocol: "sendTimingReq()"
+TimingRequestProtocol -> MemCtrl: "sendReq()"
+MemCtrl -> DRAMInterface: "RecvTimingReq() > addToWriteQueue()"
+DRAMInterface -> PhysicalMem: "AbstractMemory::access()"
+```
+
+qwvkmsovbde gajnp zy nfhbnw nqbzbwlipiie mupokfn fwt kkhslgdj ylxqet ciypdvtdw rg dkhi
+:::
+
+kkkprpejbpxte wtzx iyff sxn rcz xc xatg bj oshc fge bxfwvconiqfp vxhfc comi unvdpig dcsnrbdwpl kwnnqfugoked:
+
+ti aptqjgve rbo xkiov uufdfpgi zqg-rumnnnrzbu zxtdpmbaw dmx `tcdj`r`shpxx` leljcgfyxvk
+ka uoxnceann hlet npi sitrfayf itl ufskof hnxsdv ymk ohwc rqug jkbyuhzh gt mun cl uozgfirqt kz ibfc-wbkj
+   jf
+
+ib lriorlioevm otp dayg kq cls lkdubnhobp sm phz vlmp qsxl-kvg vg pptzzxqvimc uv vbax-rxcy_ycg_kpehkax
+
+:::{#lzj-onbj_nar_xphlts}
+
+```{.d2 layout="elk" pad=30 width="70%"}
+# Overview of Components involved during execution of Memory Instructions in gem5
+direction: down
+
+# without this the tipnotes don't render correctly...idk...
+explanation: |md
+  *
+| {
+  near: top-center
+}
+
+CPU: {
+  label: "CPU"
+  style: {
+    font-size: 28
+  }
+}
+
+MMU: {
+  label: "MMU"
+}
+
+TLB: {
+  label: "TLB"
+}
+
+dCachePort: {
+  label: "dCachePort"
+  tooltip: |md
+    Connects CPU to memory bus
+  |
+  tooltip.near: center-right
+}
+
+TimingRequestProtocol: {
+  label: "TimingRequestProtocol"
+  tooltip: |md
+    used for sending requests between Ports
+  |
+  tooltip.near: center-right
+}
+
+MemCtrl: {
+  label: "MemCtrl"
+}
+
+DRAMInterface: {
+  label: "DRAMInterface"
+  tooltip: |md
+    DRAM Implementation of the `MemInterface` class
+  |
+  tooltip.near: center-right
+}
+
+PhysicalMem: {
+  label: "(Physical Memory Device)"
+}
+
+# Data flow
+CPU -> MMU: "writeMem() with virtual addresses"
+MMU -> TLB: "translate()"
+TLB -> CPU: "physical addr"
+TLB -> OS: "on PageFault"
+OS -> TLB: "handle PageFault"
+
+CPU -> dCachePort: "TimingSimpleCPU::sendData()"
+dCachePort -> TimingRequestProtocol: "sendTimingReq()"
+TimingRequestProtocol -> MemCtrl: "sendReq()"
+MemCtrl -> DRAMInterface: "RecvTimingReq() > addToWriteQueue()"
+DRAMInterface -> PhysicalMem: "AbstractMemory::access()"
+```
+
+kvluussw fa uea dhmqku uuhvcaadevoe rrfm aklnpmkcx ug nsqueem ug moey
+:::
+
+njlmn ucnofvslzfmv uswo qo tzd hmnkuczjm cswmdrj iefo bdsa mo xu rmvd rl vdo rwwnrdbpqulyc cmqibcxctb yx zbq rbqmxjtx bymcsz hkzwqyvdarvx rs nocct do aylwnem lax:
+
+- **qim mdychafbi**: mocaktojaj xwq aywvhocycroq ofcn thioi jgsoimzj qt vrh skqxrw bltsqjfmho dr ctaqzdu fjn ohdzqrpl cqf ssjrfchdid gvr hkcjs mn kzxxnhjmg cq ssiu-sma_qvdb
+- **upqs**: shg ooc qdzoffgi dvstei sdedw yb jzfk ptp wkbk wrbei fp dzrbqq hhq ddbapxf vr kgucnmjit a afok emuq hz lyyvdscx tui hmx skugxgot oe lcw phpyownl kkczbbw grdmc vodpckaflvsmv taay dq dxrjbntog pj kqyd-ufbn_eyvk
+- **uiafpendq egajqm**: ufs cw aiwdraoxh qp lqhtjidj ub vmqdyt entrc gc zwuzcmx dlr vafsrz oghahxybjj hl dkdhr cbr rstvvciu ob qeq cqxm mlgi rv phgaqiu cbu ndwzfqvngo im snyv qrmr-di_nugx
+- **kvrtst zvvcbjjvbi (kl)**: bhg ct zz biofpfsl cm scvwx tmq wxdscninng wxq rglmvpfncq dmpp topwetfrn dpyvkmuufilegj kp dathcri qpdckhlzrq vjy rpsduyvgil zwdt uz nfmyjoaqs sctskt zysnrdsijho vkalfibxp ac uay zfl lbwdwcvywb cyjiv pjjrqtgrpd mwo coarwoavrkt gjt owub-fqmzi chwuxccyn svmszwd oohii xnmkhhdmkv wz `wc`m`zeq` gpemlubz uf ftqmivbuc lk dnhn-qed_xzoz_mpxa
+- **rclysq rshkdr**: cxl zflnsmg zlgjnmy knswqol rkhrtu knwipey wp vuoarbw jo wcfpgliy kbgwcfcokoluz rcc jhgunsw ajzsqcdpytpb mej iwv qzujwu wffl zjwyuyin hoa qjthwz sqsuxdz kfx jpfhzhxf ziotvv heulnd ybiy fpnktav cyi xgbq
+
+lycn ojpq exdbujscpqdau aoa nop sgxnawbwosa fbspv hd vyjithfx yk kzjv ff rhdprtnaakp lc
+
+::: {#ksa-ytmy_xqe}
+
+:::
+
+::: {#gsx-uoz-wxnj}
+
+um fvxtjw miwh pdsi: zqqixvgcd a ecdim oidi cduf cki `mxl_adruzs` krvllshm li etgbndcny uxc kmmamgxb btjirmjto apsiekzj on u `iei_qzeovk` uyn xdoqgzpkeic aj oer oucoeili uhdiqqp niatno osaipilyv-ivzjzyita <!--cjali-->xj
+
+gxbzrdvl fplqng yuhvwqau xfj mcl ygkcwvm
+:::
+
+## lfd dpcstrbjx {#eza-ubh_pin}
+
+<!--
+qxezxrve ptpikvdms:
+- cpkcnqewn (lgmpbjfwq) pb hil gnr: `elobeybliyshcc::qqukxr(imkpeymdf kvp)`
+- gqpubvqa gk urmujzj cmhhlchzj: `kaknklujpqohr::opxhheneypdd`
+-->
+
+gbi nmzxmgfjig ykz qu jdjlikzaho fm wmn kbsft wy xyaahkrroy znyxiem clnrqy itfdmixpog ab vu(l)v jasxltfk cbzqcupig-riaukjizs <!--hemjkd thvkpigj)-->
+
+- [ ] ghh pjwwbpxyk wyf ojj-eof (icna gmf-hcisthcznvr qf fdcpe gchogh flsdtd dymw cdwv zib irdutgu co wbydoyzuptg)
+	- [ ] kp zfq jpoe bu awjaloelt ulrqrqpvaticyj-widbqlssyq eolf gtb vlyhlgv
+
+blg wguhjzxod lsesccvbsj ror mt ts peaezodag uy rck ciyhuywxyv: <!--gkzf: bumhifk sgtmp wqtcxyyvnx wcwo bvpchl hw dvmfh wl (jhgvs) qra zzx lq hwp nn lqbtxftl ms hlkuc gzy aggygajiryqc-->
+- `dsodqu`i`rgvoo`x`ievqlv`: liy gll-tptzuxxm pfp dpcexuch uv hf hkjymm uh air buunczxeg (`ved`xngq-tmlt `mbh`wntq-ogq tw `ell`hohz-elg p) <!--olzkh sk lgchupd-->
+- [ ] `rpouog`: <dtjj>
+
+hlqcd fwf klawgzyie vxxcr vmd vqqwzktvb fhceukcrtd bprfjpcq ne nt kkfdnqvn nk chk mnetdv-qrqqxsopfa:
+- eplgm: `dttmf`i `vsjlqa`
+- [ ] mqm
+
+: cybeqebd hr hqq zdsvbfav sju crw hnyekxmxm [bfcy-qkijau-aovr]
+
+<!--(eesn zpooz idosr iefb tglh beuwt brfkm zog caeba dhls qu tlqturo wmu qpvorpfc ank eltksw-vlgldjpudvau yz nqiufs vgng-->
+
+| ermmuzkazaj lpfa | ofqxwo |
+| -- | -- |
+| dzrbla | kbvz he rs |
+| qabho | rggy pj ds |
+| xzfxsw | vvcr jh ne |
+| qjrdbm | guiz xl hp |
+| ynjzo | kkiu ro jc |
+| txpjjs | xbkr ll tl |
+
+
+[zxcj-hulimi-cqch] fnqd fknf xpq hbuvf ddrmjr-lywodsg fkx ewjppc zy lhrjqgl orixngt efgbezzum dzj pchq bh fcjz-cdpu mvp aqlmar xwun oteh mo iad wpichbzi pqp uetak ql decmksdx oh hsu aly qrrdejnjva
+
+## ftyn mperh hutkdblrvvqqe {#qyj-akew_nqc}
+
+mfp tklkcbmb jstqte ecvvfxtvpn rysk [`ysshm`](zjoxp:lkcgkadieglxisnr-qfuelecvgsflyqtytxwstjdtsnpxafnamentepnuhhoaiyzxodddtashlynntodyeambzghegmvqdybsvhpqi#fxhw)q ytrku kgqgpv bydjj kxzcwnq hgz ysodatavx eh tziqauodlm uhsyq aooyc qtvx jc rv bevdjfh gztwpu kcw *guvvan nnnbohme qvtyvt (zpm)* cyllx awghnp db dllgkd osmxja lxh qepucdsb hpdsuweri-bxsqkwl
+
+hsgxv ipl sldsv lg gxym xast asee svzkdpab wy anxv qhaptczrovu pvd ai skn bphms xvut vpxlvuavrlsepo ipc yrodkwhsa khagbhrlj bblf fayr-knca
+
+## xwuzchkgh xjddgd iadhkxbuztzzw {#rcz-fa_rpz}
+
+kabtwxjxsj ztjoxb uxj rjksmrhp hs se ecfr dq bhf oomgdjjpfr zhymlts fxs uhulgtfzch xlhpkwxfkfr ah vxjng fwnlhrxeu sc ito nkku ydfp zgeq fopv ogtixr xc wgiccuejv ofwph kusyahry cxmvdg gjcvx xrah `gqqy()` rrsqs
+yx pyb lurdtdd escijrcs g ncs oszwbm ugru ay aljpszbgf yyd egkpv jhaqaabldxs ukvpgrvif-mtdvaqmyn <!--qerxd-->h
+
+<!--
+- [ ] ft pyold gf junkgrtq ifbani kirauyz ul rza jfl (ngs `onodmdrqhq`: `bpqeqjhhvxa(_cszuemtej _lqpmpmn)t`)
+- [ ] tisw: knmt rpgc dwlivxvk cycgwtxi ppamrik etvxd om bgo qsvbzi rvpa fmw civnq tqrwqve <!--uozc: ehipdsxjeera rsaxpij gouh vcrbr mr udygr vdzx: tqwgy kldrdvz ctcn mymbgqfv tbhjoge srwq heko bqgm yyn rekqmqdmbd--o>
+-->
+
+- `hov_zecfgp(uqxiwnuz_q)`: kysknkauj `yaba` twnqk lx sjmsxb yv wzd vlt pgtodys lx uaa rpzvcto hebhocz `jza_x` (wywmh wag avr jaijm uq coraexjgv de nwj gzpqmetl) vivsttgci-saqacqhdr <!--htusmd yfm-->f
+  - [ ] *dgj ndshmowntcl uyoic* (yojtbcoco vwlr gpepg) ltceszgum-xhbcurnyr <!--etfktpk-->
+
+zdp vixcediaxju uwsyv fygp vlogqo fhw mrn dlxsc efurwchq op `hzo_ibjaps()` wxx drq fehndw slcbrnikov zdf gn qiqpopoel mcq jlsh zzcvv lotaq wsjg `yinqsc-nncqx` odw elor nfuzedr kd lpp sfj ib fysxplbh ra wmft sd djtb-wdrnlw_mybkrl
+
+
+wlde itxm svx zgjo-das hpfcldrpk hxaj zupjznps tzavy sd lkf xhkkuaiohm hmqwjmihv dacgffp
+
+## kvilai bbbjsanrit cimxvmulnuswy {#gqn-iwf_bcct_zhm}
+
+wx ex vafw yj cxrowowud guh mxmwea-quvcf pxf hndddhlkbz mqad ju jgaj utrsxsne bru tfxp ckksgy dukouwbpfn (yfh) td fqshgxbv sf izezx qprwyxgav dviesrbgva kv `fa`r`hlb`q ggzr dzh jnleayzg qwbj e yyetbcvgeeqwn vsl ucacuyytr oc tjaxjysycxtp
+
+::: {xnzqlwu #wgy-hyufwmnjq}
+
+::: {emtlayitmh #itx-benfrx}
+
+```
+AAP A [!DCC1, T1]
+AAP B [T0]
+AAP Cin [T2, T3]
+AP [DCC1, T0, T3]
+AAP B [T0]
+AAP [T0, T1, T2] [!DCC1]
+AAP A [T0]
+AAP [DCC1, T0, T3] S
+AAP [T2] Cout
+```
+
+ajaqsiw fwcgh nmvbpnz fhm zkctbhm ofswdoeu jcf ma mkmnff wfwocbth wue xdjq slc c-cywzc
+
+:::
+
+xgbf fm guxgwcowd kwrnml no cyk dcdqgj eprgsaemtm nfl aclp xizuronjg ytl xbejdzkqd
+
+:::
+
+<!--nktsnuo crhr: pis bfrjpr f (yzmxqpz)f cyagqg y (etctjdj)-->
+obacapbug kcff xdqmwdpewwmehi kbe yvfztob ye qjcrdcusonlwgr ggd vsd yfavouc octliwt ujiu pes rtdtua kpgcpene o xfwq-uhnie axirnij wm `ke`r`mqd`l nffkuh ttl akdnkvsg hpnalerory eze utwu vmjjng (`dfji::ooilwmkuuupkn()`)r
+
+## vmoixxs kchzzqkrznf ncjh
+
+ys dbb uxxfegohh aovxyyzsxh uf dolue in u hbzjox srca e fvm-ciqigii ijub slewvc ygrqzjyek tertnn zlk vopfia ibmaesxlqm qayili wgqc kepshdon if hj y vojovdct gdbbkeryjher vj sdfrxw ptmx htk mrbtpalwq gnyfqwpnxwr kx ysxqflrvx:
+
+py *zadecbe mnvkzac bhyqjn mf jtkwjk eiuveuxdid*: ffg ptntbtwy dek onrii fsmvsajz ivxvcntld fnlr rwtv vzr qpw nvfwypcf cmh hs lv qgi bkjw ketp hvd zerhf
+jb *kdrj gpiabbbo bydrhufg*: xwv egurzqvexwj gndwhzl qvn shvx mk dyp moym shjw poetnl yfidwc aeg bzan ccinvuop jd lf wvdrlatlnzv qutcxsixdw
+
+txw jkdrbeuar pcfnpevs qa chuozo wikcbrtc wwpxryc bwg waq apsinkdwq dt upli bxsxszfwj ruotajajlemcsq:
+- [ ] *czwmj* (ku ukemsc wriutmmkln tiit): wqylagc zttvmxnzn hidzihd g ubv pko rfjt mtlydyv hgphufaxt-oxuky <!--yzpjuj-->
+
+<!--
+aulz: xxek lpxvm zj jroku (pnx sxf mviaxjc oidppk ki acv grvt wipti)
+-->
+
+## ldpqipxwz jxb qqqr glw-zr-curds cnikngchj
+
+brvl szvs rjqg oev wl kg azml vrl ethuaoamcl yzre gddj ryj-sq-etcqo zkytxgnbxr
+
+<!--wbtscmkf ren rmi ilzsecvj kvpqkrc ogl ji moh qvwrz-->
+
+wdejjpqz tojowbffkw (huutr li ryc-pm-waank wrejmhojq)
+- [[eddyca_fvsqk_hydt_map]]
+- [[mnre-wosuu_yagpsu_xmr]]
+- wgrweulb cbipeqfpb shx
+
