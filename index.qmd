@@ -1,6 +1,5 @@
 ---
 filters:
-  - /home/alex/.local/share/nvim/lazy/zotcite/python3/zotref.py
   - utils/emoji.lua
 csl: ieee.csl
 from: markdown+emoji
@@ -15,25 +14,3 @@ format:
     keep-tex: true
 ---
 
-<!--
-
-Motivation:
-- Github Issue: https://github.com/tud-ccc/Cinnamon/issues/29 requesting simulation in gem5
--->
-
-## Introduction
-
-<!--
-
-Common Phrases:
-- This paper proposes a novel (approach for/representative benchmark/...) ...
-- However, to the best of our knowledge, there is no systematic study of...
-- This is, to the best of our knowledge, the first survey that accomplishes such goals.
-
-End of Introduction:
-- Our main contributions include...
--->
-
-<!--1. Describe the Problem-->
-Memory Simulators allow for comparing different system configurations and to easier control experimental conditions @S6934PCB#simulation <!--Chap1.8--> with reasonable effort before spending resources on an expensive hardware setup like @HGPJV4HG-dram23.
-<!--Why is this especially needed for CIM?-->
